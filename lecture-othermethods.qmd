@@ -306,6 +306,7 @@ How much of the *effect* on Y of being in group A vs B is *because* the grouping
 ## baseline, prevalence, effect
 
 ![](images/pres1/Slide41.PNG){fig-align="center" width="100%"}
+
 ## baseline, prevalence, effect
 
 ![](images/pres1/Slide43.png){fig-align="center" width="100%"}
