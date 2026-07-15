@@ -14,6 +14,11 @@ lapply(list.files("data",full.names=TRUE), \(x) file.copy(x,"docs/data"))
 
 # Overview
 
+#### contacts
+
+- [Josiah: josiah.king@ed.ac.uk](mailto:josiah.king@ed.ac.uk){target="_blank"}  
+- [Ben: ben.matthews@stir.ac.uk](mailto:ben.matthews@stir.ac.uk){target="_blank"}
+
 #### When
 
 Wednesday 15th July 2026  
