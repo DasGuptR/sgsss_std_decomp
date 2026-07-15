@@ -2,7 +2,7 @@
 title: "Welcome/Intro"
 format:
   revealjs:
-    output-file: "lecture-00.html"
+    output-file: "lecture00.html"
     theme: [default, assets/mystyle.scss]
     footer: "<a style='color:black;text-decoration:underline overline;' href='./index.html'>Workshop Home</a>"
     transition: fade
@@ -14,6 +14,10 @@ format:
     code-annotations: hover
     code-copy: hover
     chalkboard: true
+filters: 
+  - "assets/inverse_part.lua"
+title-slide-attributes:
+  data-background-color: "#006938"    
 ---
 
 
@@ -28,7 +32,7 @@ format:
 
 ## Housekeeping
 
-- [Code of conduct](https://benmatthewsed.github.io/sgsss_std_decomp/code_of_conduct)
+- [Code of conduct](https://benmatthewsed.github.io/sgsss_std_decomp/code-of-conduct)
 - Ask questions whenever 👍 You can do this through the Teams chat facility {demo this now}
 - We’ve structured the sessions with regular breaks, but if you need to leave just leave!
 - Materials will live online here so you can access them any time
